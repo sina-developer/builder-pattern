@@ -1,4 +1,4 @@
-# builder-pattern
+# Builder Pattern
 Builder Design Pattern
 
 This design pattern can be used to generate complex objects by simple classes 
